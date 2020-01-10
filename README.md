@@ -1,4 +1,7 @@
-# Webpack-4-with-ReactJS-Demo
+## todos
+Check here: http://Udaay.github.io/todos
+
+## Webpack-4-with-ReactJS-TODo-list
 Demo of basic setup with Webpack 4 to start building web application in ReactJS.
 
 ## Features
@@ -12,11 +15,13 @@ Demo of basic setup with Webpack 4 to start building web application in ReactJS.
 
 ### Installation
 
-* git clone https://github.com/yadavashish673/ES6-with-webpack4.git
+* git clone https://github.com/Udaay/todos.git
 * npm install.
 
 #### How to start
 
 * npm start (to start with development environment)
 * npm run build (for production environment)
+* npm run deploy (for deploying on gh-pages)
+
 
