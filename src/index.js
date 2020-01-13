@@ -4,4 +4,4 @@ import './css/app.css';
 import App from './App'
 
 
-ReactDOM.render(<App />, document.getElementById('root-app'));
+ReactDOM.render(<App />, document.getElementById('root'));

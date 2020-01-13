@@ -43,3 +43,13 @@ button {
   padding: 9px;
   font-size: 15px;
 }
+
+.empty-state {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.checklist-icon {
+  margin-bottom: 20px;
+}

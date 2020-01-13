@@ -33,7 +33,7 @@ export default class Entry extends Component {
 
   render() {
     return (
-      <div classname= 'bottom'>
+      <div className= 'bottom'>
          <input type="text" autoFocus onChange= {this.handleChange} onKeyDown = {this.handlePress} />
          <button onClick={this.handleSubmit} > Submit  </button>
       </div>
